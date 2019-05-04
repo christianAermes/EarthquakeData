@@ -9,4 +9,4 @@ This is based on a coding challenge on [YouTube](https://www.youtube.com/watch?v
 
 ## How to run
 This was developed in Processing. Therefore, you will have to [install Processing](https://processing.org/download/) on your machine.
-I used an additional library, [Paasycam](http://mrfeinberg.com/peasycam/), wich you will also need to install.
+I used an additional library, [Peasycam](http://mrfeinberg.com/peasycam/), wich you will also need to install.
